@@ -1,0 +1,11 @@
+streamlit
+httpx
+beautifulsoup4
+lxml
+pandas
+pydantic
+dateparser
+python-dotenv
+openpyxl
+openai
+nest_asyncio
